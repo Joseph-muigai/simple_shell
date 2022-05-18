@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
-* authors: mwanaharusi Omar and joseph wambicho
-* _getline - Read The Input By User From Stdin
+* authors: Mwanaharusi Mlongo and Joseph Wambicho
+*_getline - Read The Input By User From Stdin
 * Return: Input
 *alx-school-- shell
 */
