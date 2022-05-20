@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
- * authors:mwanaharusi mlongo and joseph wambicho
  * history - Fill File By User Input
  * @input: User Input
  * Return: -1 Fail 0 Succes
+ * authors:mwanaharusi mlongo and joseph wambicho
  */
 int history(char *input)
 {

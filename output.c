@@ -1,11 +1,11 @@
 #include "shell.h"
 /**
- * authors:mwanaharusi mlongo and joseph wambicho
  *  _prerror - Print Custome Error
  * @argv:Program Name
  * @c:Error Count
  * @cmd:Command
  * Return: Void
+ * authors:mwanaharusi mlongo and joseph wambicho
  */
 void _prerror(char **argv, int c, char **cmd)
 {

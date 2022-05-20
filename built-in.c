@@ -1,12 +1,12 @@
 #include "shell.h"
 /**
- * authors:Mwanaharusi Mlongo and Joseph Wambicho
  * exit_bul - Exit Statue Shell
  * @cmd: Parsed Command
  * @input: User Input
  * @argv:Program Name
  * @c:Excute Count
  * Return: Void (Exit Statue)
+ * authors:Mwanaharusi Mlongo and Joseph Wambicho
  */
 void  exit_bul(char **cmd, char *input, char **argv, int c)
 {

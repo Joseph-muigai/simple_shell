@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
- * authors:mwanaharusi mlongo and joseph wambicho
  * print_number -Print Unsigned Int Putchar
  * @n: Unisigned Integer
  * Return: Void
+ *
  */
 void print_number(unsigned int n)
 {

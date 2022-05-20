@@ -1,11 +1,11 @@
 #include "shell.h"
 
 /**
-* authors: mwanaharusi mlongo and joseph wambicho
-* _getline - Read The Input By User From Stdin
-* Return: Input
-*alx-school-- shell
-*/
+  * _getline - Read The Input By User From Stdin
+  * Return: Input
+  * alx-school-- shell
+  * authors: mwanaharusi mlongo and joseph wambicho
+ */
 char *_getline()
 {
 int i, buffsize = BUFSIZE, rd;

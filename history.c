@@ -1,11 +1,11 @@
 #include "shell.h"
 
 /**
- * authors:mwanaharusi mlongo and joseph wambicho
  * history_dis - Display History Of User Input Simple Shell
  * @c:Parsed Command
  * @s:Statue Of Last Excute
  * Return: 0 Succes -1 Fail
+ * authors:mwanaharusi mlongo and joseph wambicho
  */
 int history_dis(__attribute__((unused))char **c, __attribute__((unused))int s)
 {

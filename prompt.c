@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * authors:mwanaharusi mlongo and joseph wambicho
  * prompt - Display Shell Prompt
+ * authors:mwanaharusi mlongo and joseph wambicho
  */
 void prompt(void)
 {

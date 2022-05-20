@@ -1,11 +1,11 @@
 #include "shell.h"
 
 /**
- * authors:mwanaharusi and joseph wambicho
  * handle_builtin - Handle Builtin Command
  * @cmd: Parsed Command
  * @er:statue of last Excute
  * Return: -1 Fail 0 Succes (Return :Excute Builtin)
+ * authors:mwanaharusi and joseph wambicho
  */
 
 int handle_builtin(char **cmd, int er)
